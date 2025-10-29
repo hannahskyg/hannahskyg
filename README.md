@@ -17,8 +17,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=hannahskyg&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahskyg&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ⟡ ݁₊ . ݁⊹ 🍵⊹ . ݁˖ . ݁⟡ Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hannahskyg&limit=5&theme=rose&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=hannahskyg&icon=7&color=5)](https://visitcount.itsvg.in)
 
