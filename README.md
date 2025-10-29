@@ -1,9 +1,9 @@
 # ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ Hannah Sky ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆
 # ≽^• ˕ • ྀི≼ About Me:
-🌸 I'm currently working on: 💰 A financial analysis project using advanced data science and modeling techniques.<br><br>
-🎀 I'm looking to collaborate on: 📈 Fintech data science projects focusing on market trends or predictive analytics.<br><br>
-🧸 I'm currently learning: 🧠 New machine learning frameworks and deepening my knowledge of core JavaScript.<br><br>
-🌷 Ask me about: 📊 Data Science, specifically in data analysis, visualization, and building predictive models.<br><br>
+🌸 I'm currently working on: A financial analysis project using advanced data science and modeling techniques 💰<br><br>
+🎀 I'm looking to collaborate on: Fintech data science projects focusing on market trends or predictive analytics 📈<br><br>
+🧸 I'm currently learning: New machine learning frameworks and deepening my knowledge of core JavaScript 🧠<br><br>
+🌷 Ask me about: Data Science, specifically in data analysis, visualization, and building predictive models 📊<br><br>
 🩰 Fun Fact: I love collecting rubber ducks! 🐥<br><br>
 
 
