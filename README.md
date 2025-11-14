@@ -9,7 +9,7 @@
 
 # ˙✧˖°📷 ༘ ⋆｡˚ Socials ⋆｡°·☁︎
 [![Instagram](https://img.shields.io/badge/Instagram-f4bbc9?logo=instagram&logoColor=white)](https://instagram.com/hannahsky.g)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a3b18a?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-gonzalez123/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a3b18a?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-gonzalez123/)
 
 # ✩₊˚.⋆☾⋆⁺💻₊✧  Tech Stack °.ೃ࿔*☁️
 ![Python](https://img.shields.io/badge/Python-F4BBC9?style=for-the-badge&logo=python&labelColor=F4BBC9&color=F4BBC9&logoColor=white)
@@ -40,15 +40,16 @@
 ## ᓚ₍ ^. .^₎ GitHub Stats 📈 ⋆✴︎˚｡⋆
 
 ### °❀⋆.ೃ࿔*:･ Main Stats ⋆˚✿˖°  
-![](https://github-readme-stats.vercel.app/api?username=hannahskyg&title_color=a3b18a&text_color=ffffff&icon_color=ffffff&bg_color=f4bbc9&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=hannahskyg&title_color=A3B18A&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FFE4EC&hide_border=false)
 
 
 ### ⋆˚✿˖° Streak Stats  °❀⋆.ೃ࿔*:･
-![](https://nirzak-streak-stats.vercel.app/?user=hannahskyg&ring=a3b18a&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a3b18a&sideLabels=a3b18a&dates=ffffff&background=f4bbc9&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=hannahskyg&ring=A3B18A&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A3B18A&sideLabels=A3B18A&dates=FFFFFF&background=FFE4EC&hide_border=false)
 
 
 ### °❀⋆.ೃ࿔*:･ Top Languages  ⋆˚✿˖°  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahskyg&title_color=a3b18a&text_color=ffffff&icon_color=ffffff&bg_color=f4bbc9&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahskyg&title_color=A3B18A&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FFE4EC&hide_border=false&layout=compact)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=hannahskyg&icon=7&color=F4BBC9)](https://visitcount.itsvg.in)
