@@ -8,7 +8,8 @@
 
 
 # ˙✧˖°📷 ༘ ⋆｡˚ Socials ⋆｡°·☁︎
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hannahsky.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hannah-gonzalez123/) 
+[![Instagram](https://img.shields.io/badge/Instagram-f4bbc9?logo=instagram&logoColor=white)](https://instagram.com/hannahsky.g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a3b18a?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-gonzalez123/
 
 # ✩₊˚.⋆☾⋆⁺💻₊✧  Tech Stack °.ೃ࿔*☁️
 ![Python](https://img.shields.io/badge/Python-F4BBC9?style=for-the-badge&logo=python&labelColor=F4BBC9&color=F4BBC9&logoColor=white)
@@ -36,11 +37,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-F4BBC9?style=for-the-badge&logo=github&labelColor=F4BBC9&color=F4BBC9&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-A3B18A?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-# ᓚ₍ ^. .^₎ GitHub Stats 📈 ⋆✴︎˚｡⋆
-![](https://github-readme-stats.vercel.app/api?username=hannahskyg&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hannahskyg&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahskyg&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ᓚ₍ ^. .^₎ GitHub Stats 📈 ⋆✴︎˚｡⋆
+
+### 🌸 Main Stats  
+![](https://github-readme-stats.vercel.app/api?username=hannahskyg&title_color=f4bbc9&text_color=a3b18a&icon_color=f4bbc9&bg_color=ffffff&hide_border=false)
+
+### 🔥 Streak Stats  
+![](https://nirzak-streak-stats.vercel.app/?user=hannahskyg&ring=f4bbc9&fire=a3b18a&currStreakNum=a3b18a&sideNums=a3b18a&currStreakLabel=f4bbc9&sideLabels=f4bbc9&dates=a3b18a&background=ffffff&hide_border=false)
+
+### 🍃 Top Languages  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahskyg&title_color=f4bbc9&text_color=a3b18a&icon_color=f4bbc9&bg_color=ffffff&hide_border=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hannahskyg&icon=7&color=5)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=hannahskyg&icon=7&color=F4BBC9)](https://visitcount.itsvg.in)
 
