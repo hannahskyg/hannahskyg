@@ -39,13 +39,13 @@
 
 ## ᓚ₍ ^. .^₎ GitHub Stats 📈 ⋆✴︎˚｡⋆
 
-### 🌸 Main Stats  
+### °❀⋆.ೃ࿔*:･ Main Stats ⋆˚✿˖°  
 ![](https://github-readme-stats.vercel.app/api?username=hannahskyg&title_color=f4bbc9&text_color=a3b18a&icon_color=f4bbc9&bg_color=ffffff&hide_border=false)
 
-### 🔥 Streak Stats  
+### ⋆˚✿˖° Streak Stats  °❀⋆.ೃ࿔*:･
 ![](https://nirzak-streak-stats.vercel.app/?user=hannahskyg&ring=f4bbc9&fire=a3b18a&currStreakNum=a3b18a&sideNums=a3b18a&currStreakLabel=f4bbc9&sideLabels=f4bbc9&dates=a3b18a&background=ffffff&hide_border=false)
 
-### 🍃 Top Languages  
+### °❀⋆.ೃ࿔*:･ Top Languages  ⋆˚✿˖°  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahskyg&title_color=f4bbc9&text_color=a3b18a&icon_color=f4bbc9&bg_color=ffffff&hide_border=false&layout=compact)
 
 ---
