@@ -1,9 +1,9 @@
 # ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ Hannah Sky ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆
 # ≽^• ˕ • ྀི≼ About Me ⋆✴︎˚｡⋆
-🌸 I'm currently working on: A financial analysis project using advanced data science and modeling techniques 💰<br><br>
-🎀 I'm looking to collaborate on: Fintech data science projects focusing on market trends or predictive analytics 📈<br><br>
-🧸 I'm currently learning: New machine learning frameworks and deepening my knowledge of core JavaScript 🧠<br><br>
-🌷 Ask me about: Data Science, specifically in data analysis, visualization, and building predictive models 📊<br><br>
+🌸 I'm currently working on: Exploring agentic AI architectures and building autonomous LLM applications, drawing on my recent experience as a Data Science Analyst Intern at JPMorgan Chase & Co. 🤖<br><br>
+🎀 I'm looking to collaborate on: Projects involving agentic AI, LLMs, or AI-driven fintech solutions 🚀<br><br>
+🧸 I'm currently learning: Advanced agentic frameworks (like LangChain and AutoGen) and refining my MLOps skills 🧠<br><br>
+🌷 Ask me about: Data Science, vector embeddings, predictive modeling, and my time at JPMC! 📊<br><br>
 🩰 Fun Fact: I love collecting rubber ducks! 🐥<br><br>
 
 # ˙✧˖°📷 ༘ ⋆｡˚ Socials ⋆｡°·☁︎
@@ -24,17 +24,23 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F4BBC9?style=for-the-badge&logo=scikit-learn&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
 ![SciPy](https://img.shields.io/badge/SciPy-A3B18A?style=for-the-badge&logo=scipy&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-F4BBC9?style=for-the-badge&logo=tensorflow&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
-![NumPy](https://img.shields.io/badge/NumPy-A3B18A?style=for-the-badge&logo=numpy&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F4BBC9?style=for-the-badge&logo=matplotlib&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
-![Seaborn](https://img.shields.io/badge/Seaborn-A3B18A?style=for-the-badge&logo=seaborn&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
-![Plotly](https://img.shields.io/badge/Plotly-F4BBC9?style=for-the-badge&logo=plotly&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-A3B18A?style=for-the-badge&logo=mysql&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite-F4BBC9?style=for-the-badge&logo=sqlite&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
+![PyTorch](https://img.shields.io/badge/PyTorch-A3B18A?style=for-the-badge&logo=pytorch&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/NumPy-F4BBC9?style=for-the-badge&logo=numpy&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-A3B18A?style=for-the-badge&logo=matplotlib&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
+![Seaborn](https://img.shields.io/badge/Seaborn-F4BBC9?style=for-the-badge&logo=seaborn&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
+![Plotly](https://img.shields.io/badge/Plotly-A3B18A?style=for-the-badge&logo=plotly&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-F4BBC9?style=for-the-badge&logo=apachespark&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/AWS-A3B18A?style=for-the-badge&logo=amazonaws&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-F4BBC9?style=for-the-badge&logo=docker&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-A3B18A?style=for-the-badge&logo=kubernetes&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
+![Jenkins](https://img.shields.io/badge/Jenkins-F4BBC9?style=for-the-badge&logo=jenkins&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-A3B18A?style=for-the-badge&logo=fastapi&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
+![Oracle](https://img.shields.io/badge/Oracle-F4BBC9?style=for-the-badge&logo=oracle&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-A3B18A?style=for-the-badge&logo=vercel&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-F4BBC9?style=for-the-badge&logo=mysql&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
 ![Postgres](https://img.shields.io/badge/Postgres-A3B18A?style=for-the-badge&logo=postgresql&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-F4BBC9?style=for-the-badge&logo=microsoft%20sql%20server&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-A3B18A?style=for-the-badge&logo=git&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-F4BBC9?style=for-the-badge&logo=github&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-A3B18A?style=for-the-badge&logo=windows-terminal&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F4BBC9?style=for-the-badge&logo=git&labelColor=F4BBC9&color=F4BBC9&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-A3B18A?style=for-the-badge&logo=github&labelColor=A3B18A&color=A3B18A&logoColor=FFFFFF)
 
 ## ᓚ₍ ^. .^₎ GitHub Stats 📈 ⋆✴︎˚｡⋆
 
@@ -42,7 +48,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=hannahskyg&title_color=A3B18A&text_color=F4BBC9&icon_color=F4BBC9&bg_color=FFFFFF&hide_border=false)
 
 ### ⋆˚✿˖° Streak Stats  °❀⋆.ೃ࿔*:･
-![](https://nirzak-streak-stats.vercel.app/?user=hannahskyg&ring=A3B18A&fire=F4BBC9&currStreakNum=F4BBC9&sideNums=F4BBC9&currStreakLabel=A3B18A&sideLabels=A3B18A&dates=F4BBC9&background=FFFFFF&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hannahskyg&ring=A3B18A&fire=F4BBC9&currStreakNum=F4BBC9&sideNums=F4BBC9&currStreakLabel=A3B18A&sideLabels=A3B18A&dates=F4BBC9&background=FFFFFF&hide_border=false)
 
 ### °❀⋆.ೃ࿔*:･ Top Languages  ⋆˚✿˖°  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahskyg&title_color=A3B18A&text_color=F4BBC9&icon_color=F4BBC9&bg_color=FFFFFF&hide_border=false&layout=compact)
