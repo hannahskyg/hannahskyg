@@ -45,13 +45,13 @@
 ## ᓚ₍ ^. .^₎ GitHub Stats 📈 ⋆✴︎˚｡⋆
 
 ### °❀⋆.ೃ࿔*:･ Main Stats ⋆˚✿˖°  
-![](https://github-readme-stats.vercel.app/api?username=hannahskyg&title_color=A3B18A&text_color=F4BBC9&icon_color=F4BBC9&bg_color=FFFFFF&hide_border=false&show_icons=true)
+![](https://github-stats-extended.vercel.app/api?username=hannahskyg&title_color=A3B18A&text_color=F4BBC9&icon_color=F4BBC9&bg_color=FFFFFF&hide_border=false&show_icons=true)
 
 ### ⋆˚✿˖° Streak Stats  °❀⋆.ೃ࿔*:･
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hannahskyg&ring=A3B18A&fire=F4BBC9&currStreakNum=F4BBC9&sideNums=F4BBC9&currStreakLabel=A3B18A&sideLabels=A3B18A&dates=F4BBC9&background=FFFFFF&hide_border=false)
 
 ### °❀⋆.ೃ࿔*:･ Top Languages  ⋆˚✿˖°  
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hannahskyg&title_color=A3B18A&text_color=F4BBC9&icon_color=F4BBC9&bg_color=FFFFFF&hide_border=false&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=hannahskyg&title_color=A3B18A&text_color=F4BBC9&icon_color=F4BBC9&bg_color=FFFFFF&hide_border=false&layout=compact)
 
 ---
 
